@@ -1,2 +1,2 @@
-# viven-sainte-fare-garnot
-latig homepage
+# vivien-sainte-fare-garnot
+LASTIG homepage
